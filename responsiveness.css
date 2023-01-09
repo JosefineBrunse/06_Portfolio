@@ -159,4 +159,10 @@
   .tema3-btn-container {
     margin-top: 30%;
   }
+
+  .instagram {
+    left: -80%;
+    width: 40px;
+    height: 20px;
+  }
 }
