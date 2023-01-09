@@ -377,7 +377,7 @@ section.tema.tema-ommig {
 
 footer {
   position: relative;
-  top: 180vh;
+  top: 1900px;
   height: 100px;
   margin: 100px;
 }
@@ -512,4 +512,17 @@ footer img {
 .tema.tema-tre .card.theme-card img {
   width: 200px;
   height: 300px;
+}
+
+.description-container .tema6-list {
+  width: 150%;
+  margin-left: -40%;
+  margin-bottom: 20%;
+  margin-top: 10%;
+}
+
+.tema6-h2 {
+  position: absolute;
+  margin-top: -60px;
+  left: -10%;
 }
