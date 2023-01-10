@@ -199,6 +199,7 @@ main .description-container h2 {
 .description-container .tematext {
   margin-left: -30%;
   margin-bottom: 20%;
+  font-size: 13px;
 }
 
 .project-section {
@@ -377,7 +378,7 @@ section.tema.tema-ommig {
 
 footer {
   position: relative;
-  top: 1900px;
+  top: 2100px;
   height: 100px;
   margin: 100px;
 }
