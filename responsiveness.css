@@ -150,14 +150,20 @@
 
   .tema.tema-tre .card.theme-card img {
     margin-left: -65%;
+    margin-top: -20%;
   }
   .tema.tema-tre .card.theme-card p {
     margin-left: 10%;
-    top: 45%;
+    top: 55%;
+  }
+
+  .tema.tema-tre .card.theme-card {
+    height: 600px;
+    top: 90%;
   }
 
   .tema3-btn-container {
-    margin-top: 30%;
+    margin-top: 20%;
   }
 
   .instagram {
