@@ -235,6 +235,8 @@ main .description-container h2 {
 .project-section iframe {
   margin-top: 10%;
   margin-left: -1%;
+  width: 560px;
+  height: 315px;
 }
 
 section.col-section {
@@ -257,6 +259,11 @@ section.col-section {
 iframe {
   margin-left: 20px;
   border-radius: 5px;
+}
+
+.tema5_card iframe {
+  width: 560px;
+  height: 315px;
 }
 
 .col div {
@@ -531,6 +538,5 @@ footer img {
 .instagram {
   position: relative;
   top: 50%;
-  width: -30%;
   height: 1%;
 }
